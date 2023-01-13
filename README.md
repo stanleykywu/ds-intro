@@ -14,6 +14,6 @@ Local environments and common ML packages are tricky when there are M1, M2, Inte
 If step 4 fails, try the pip variant: `pip install -r requirements.txt`. Otherwise, the Google Colab Online Mirror option below is a safe alternative.
 
 ## Google Colab Online Mirror
-If you are having trouble getting this repository up and running, the jupyter notebook code is also hosted [here]() on Google Colab. Make a copy and you are free to run the code without having to install anything on your local machine.
+If you are having trouble getting this repository up and running, the jupyter notebook code is also hosted [here](https://colab.research.google.com/drive/1a3orxypugt5Pj2JmAwHcdkYQoFPOWv23?usp=sharing) on Google Colab. Make a copy and you are free to run the code without having to install anything on your local machine.
 
 _This code is adapted from [Scikit-Learn's MNIST Example](https://scikit-learn.org/stable/auto_examples/classification/plot_digits_classification.html)_
